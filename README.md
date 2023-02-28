@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and more**
 
-- 📫 You can contact me via **Discord тнǝĐǝхǝя#0124**
+- 📫 You can contact me via Discord **тнǝĐǝхǝя#0124**
 
 - ⚡ Fun fact **Birds can fly**
 
