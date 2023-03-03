@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm theDexer</h1>
-<h3 align="center">HTML, CSS and PY Developer | Owner of Dreammanie.eu</h3>
+<h3 align="center">HTML, CSS and PY Developer</h3>
 
 - 🔭 I’m currently working on **Nothing**
 
