@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm theDexer</h1>
 <h3 align="center">HTML, CSS and PY Developer | Owner of Dreammanie.eu</h3>
 
-- 🔭 I’m currently working on [Dreammanie.eu](https://dreammanie.eu/)
+- 🔭 I’m currently working on [Nothing]
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and more**
 
